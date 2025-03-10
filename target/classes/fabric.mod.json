@@ -3,6 +3,7 @@
   "id": "nitrofps",
   "version": "1.0.0",
   "name": "NitroFPS+",
+  "icon": "assets/nitrofps/icon.png",
   "entrypoints": {
     "main": ["com.twopartygamer.nitrofps.NitroFPS"]
   },
