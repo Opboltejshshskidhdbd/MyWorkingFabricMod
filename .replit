@@ -73,3 +73,6 @@ author = 14614617
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "javac DownloadHelper.java && java DownloadHelper"
+
+[[ports]]
+localPort = 8080
