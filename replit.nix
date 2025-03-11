@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+      pkgs.zip
       pkgs.unzip
         pkgs.graalvm17-ce
         pkgs.maven
