@@ -76,3 +76,4 @@ args = "javac DownloadHelper.java && java DownloadHelper"
 
 [[ports]]
 localPort = 8080
+externalPort = 80
